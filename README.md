@@ -57,7 +57,7 @@ pip install streamlit
 ```
  python -m streamlit run app.py
 ```
-+ Visit http://localhost:8501 on your web browser to access the web app.
++ Visit http://localhost:8501/ on your web browser to access the web app.
 
 ## Contributions
  If you find any issues or have any suggestions for improvement, please open an issue or a pull request on this repository.
