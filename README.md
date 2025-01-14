@@ -19,11 +19,12 @@ SMS Spam Detection is a machine learning model that takes an SMS as input and pr
 - Web deployment using Streamlit
 
 ### Data Collection
-The SMS Spam Collection dataset was collected from Kaggle, which contains over 5,500 SMS messages labeled as either spam or not spam.
+
 
 
 You can access the dataset from [here](https://github.com/varalaxmigithubsadula/SMS-Spam-Detection-System-Using-NLP/blob/main/spam.csv)
 
+The SMS Spam Collection dataset was collected from Kaggle, which contains over 5,500 SMS messages labeled as either spam or not spam.
 You can access the dataset from [here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 
