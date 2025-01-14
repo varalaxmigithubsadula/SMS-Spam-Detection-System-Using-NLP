@@ -25,6 +25,9 @@ You can access the dataset from [here](https://www.kaggle.com/datasets/uciml/sms
 
 You can access the dataset from [here](https://github.com/varalaxmigithubsadula/SMS-Spam-Detection-System-Using-NLP/blob/main/spam.csv)
 
+You can access the dataset from [here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+
+
 ### Data Cleaning and Preprocessing
 Data cleaning and preprocessing prepare raw data by handling errors, removing duplicates, and standardizing formats. For text, it includes tokenization, stopword removal, and normalization to ensure reliable analysis or model training.
 The data was cleaned by handling null and duplicate values, and the "type" column was label-encoded. The data was then preprocessed by converting the text into tokens, removing special characters, stop words and punctuation, and stemming the data. The data was also converted to lowercase before preprocessing.
