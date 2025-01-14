@@ -3,9 +3,9 @@
 
 
 ## Demo
-To try out the SMS Spam Detection model, visit [here](https://sms-spam-detection-system-using-nlp-speseqdtmdnrgekqjrgy7q.streamlit.app/)
+To try out the SMS Spam Detection System using NLP, visit [here](https://sms-spam-detection-system-using-nlp-speseqdtmdnrgekqjrgy7q.streamlit.app/)
 ## Usage
-To use the SMS Spam Detection model on your own machine, follow these steps:
+To use the SMS Spam Detection System Using NLP on your own machine, follow these steps:
 
 + Clone this repository.
 + Install the required Python packages using 
