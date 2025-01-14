@@ -3,8 +3,7 @@
 
 
 ## Demo
-To try out the SMS Spam Detection model, visit [here](https://textsafe.streamlit.app/).
-
+To try out the SMS Spam Detection model, visit [here](https://sms-spam-detection-system-using-nlp-speseqdtmdnrgekqjrgy7q.streamlit.app/)
 ## Usage
 To use the SMS Spam Detection model on your own machine, follow these steps:
 
@@ -12,10 +11,11 @@ To use the SMS Spam Detection model on your own machine, follow these steps:
 + Install the required Python packages using 
 ```
 pip install -r requirements.txt.
+pip install streamlit
 ```
 + Run the model using 
 ```
-streamlit run app.py.
+python -m streamlit run app.py.
 ```
-+ Visit localhost:8501 on your web browser to access the web app.
++ Visit on your web browser to access the web app.
 
